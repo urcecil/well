@@ -1,0 +1,43 @@
+h1 {
+    color: chocolate;
+    text-align: center;
+}
+
+nav {
+    width: 80%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    border-radius: 5px;
+    padding: 0 5%;
+    margin: 0 auto; 
+}
+
+.KLIK h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px; 
+    letter-spacing: 1px; 
+    color: aqua; 
+}
+
+
+.menu ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    column-gap: 30px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: aqua; /* Mengubah warna menjadi aqua */
+    font-family: 'poppins';
+}
+
+.menu ul li a:hover {
+    color: #000;
+}
+

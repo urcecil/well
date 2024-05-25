@@ -1,0 +1,86 @@
+body, html {
+   margin: 0;
+   padding: 0;
+   height: 100%;
+   font-family: Arial, sans-serif; /* Ganti font sesuai keinginan */
+}
+
+header {
+   text-align: center; 
+}
+
+nav {
+   width: 80%;
+   height: 60px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: black;
+   transform: translate(1%, 40%);
+   border-radius: 5px;
+   padding: 0 5%;
+   margin: 0 auto; 
+}
+
+.KLIK h3 {
+   font-family: 'Bebas Neue', cursive;
+   font-size: 24px; 
+   letter-spacing: 1px; 
+   color: aqua; 
+}
+
+
+.menu ul {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   list-style: none;
+   column-gap: 30px;
+}
+
+.menu ul li a {
+   text-decoration: none;
+   color: aqua; /* Mengubah warna menjadi aqua */
+   font-family: 'poppins';
+}
+
+.menu ul li a:hover {
+   color: #000;
+}
+
+.parallax-container {
+   position: relative;
+   height: 100vh;
+   overflow: hidden;
+}
+
+.parallax-container.page1 {
+   background-image: url('bmiii.png'); /* Gambar latar belakang halaman 1 */
+   transition: opacity 1s ease; /* Transisi untuk opacity saat mengganti halaman */
+   opacity: 1; /* Atur opacity menjadi 1 agar latar belakang halaman 1 terlihat */
+}
+
+.parallax-container.page2 {
+   background-image: url('pls.png'); /* Gambar latar belakang halaman 2 */
+}
+
+.content {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-55%, -50%);
+   text-align: center;
+   color: black;
+}
+
+h1, p {
+   margin: 0;
+}
+
+h1 {
+   font-size: 36px;
+}
+
+p {
+   font-size: 18px;
+}

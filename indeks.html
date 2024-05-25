@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallax Example</title>
+    <link rel="stylesheet" href="kode.css">
+</head>
+<body>
+    <div class="parallax-container page1">
+        <audio controls autoplay src="bt.mp3"> </audio>
+        <div class="content">
+            <h1> <marquee> Wellnesswave </marquee> </h1> 
+            <header>
+                <nav>
+                    <div class="KLIK"><h3>MENU</h3></div>
+                    <div class="menu">
+                        <ul>
+                            <li><a href="indeks.html">Home</a></li>
+                            <li><a href="DP.html">Design Process</a></li>
+                            <li><a href="produk.html">Produk</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+            <pre> <p>
+                Halo teman teman semua 👋🏻 
+                Ciee yang lagi kepoin web kelompok kita wkwkwk,ga deh bercanda,jangan baper ya 😋
+                Selamat datang di web kelompok Wellnesswave 
+                Nah teman teman kalian pasti bingung apasih itu wellnesswave,nah sebelumnya kalian tau ga sih tentang kalkulator BMI? 
+                Belum tau ya ❓
+                Kalau gitu sini kami kasih tau 🗣️
+           
+                Kalkulator BMI sendiri adalah indikator pengukuran yang digunakan untuk menentukan kategori berat badan ideal atau tidak. 
+                Nah kelompok kami membuat aplikasi kalkulator BMI dengan nama aplikasi yaitu "WellnessWave",  
+                jadi aplikasi WellnessWave adalah aplikasi yang dapat membatu kalian mengetahui indeks massa tubuh kalian. 
+                Dengan aplikasi ini, kalian dapat dengan cepat menghitung BMI kalian berdasarkan berat dan tinggi badan 
+                dan dapat memberikan solusi untuk kalian yang kekurangan/kelebihan berat badan.
+                  
+                Menarik banget bukan aplikasi kelompok kami 😁
+           
+                Sebelumnya izinkan kelompok kami untuk memperkenalkan diri:
+                Seperti kata pepatah "Tak kenal maka tak sayang".
+                 </p>
+            </pre>
+        </div>
+    </div>
+    <div class="parallax-container page2">
+        <div class="content">
+            <h1>Welcome to Page 2</h1>
+            <pre> <p> 
+                1. Grace Andini (Graphic Designer)
+                Graphic Designer adalah profesi di industri kreatif yang bertanggung jawab untuk membuat konten visual 
+                sesuai media yang dibutuhkan (digital atau cetak).Konten visual yang dimaksud adalah desain grafis seperti 
+                logo, poster, post sosial media, dll.Dalam projek ini Grace yang akan mendekorasi web dan aplikasi.
+        
+                2. Josen Theodore (Content Writing)
+                Content writer akan bertanggung jawab terhadap produksi artikel website. Selain itu, 
+                content writer juga berhubungan dengan tim kreatif untuk menyesuaikan grafis dengan caption 
+                yang harus diunggah di media sosial perusahaan.
+                Dalam projek ini Josen bertugas untuk membuat caption dari setiap halaman website ini.
+        
+        
+                3. Kelvin Stanly (Content Writer)
+                Content writer akan bertanggung jawab terhadap produksi artikel website. Selain itu, 
+                content writer juga berhubungan dengan tim kreatif untuk menyesuaikan grafis dengan caption 
+                yang harus diunggah di media sosial perusahaan.
+                Tugas Kelvin hampir sama dengan Josen bedanya dia bertugas untuk membuat caption dari aplikasi kami 
+                yaitu "Wellnesswave".
+        
+                4. Priscilla Cecilia (Web Programmer)
+                Tanggung Jawab dan Tugas Web Developer adalah merancang tampilan visual dan menu navigasi 
+                pada website. Menulis dan meninjau kode untuk situs, biasanya HTML, XML, atau JavaScript. 
+                Mengintegrasikan konten multimedia ke situs, termasuk menautkan gambar, video, 
+                hingga asset multimedia lainnya.Dalam projek kali ini Cilla bertugas membuat 
+                kerangka html dan css dari web kami.
+        
+             Nah itu saja perkenalan dari kelompok kami,salam kenal ya semuanya 😁👊🏻
+            </p>
+            </pre>
+        </div>
+    </div>
+</body>
+</html>
